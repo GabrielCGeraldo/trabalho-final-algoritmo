@@ -1,6 +1,6 @@
 # Relatório — Atividade Final de AED II: Rede Social Simplificada
 
-**Dupla:** Tiago Ferraz dos Santos e Gabriel da Cruz Geraldo
+**Dupla:** Tiago Ferraz dos Santos e Gabriel da Cruz Geraldo  
 **Linguagem:** Python 3 (pasta `py/`)
 
 ---
